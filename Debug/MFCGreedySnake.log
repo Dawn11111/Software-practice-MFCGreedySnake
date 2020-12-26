@@ -1,0 +1,3 @@
+﻿  MFCGreedySnakeDlg.cpp
+D:\Program Files\Visual Studio\source\repos\MFCGreedySnake\MFCGreedySnakeDlg.cpp(315,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  MFCGreedySnake.vcxproj -> D:\Program Files\Visual Studio\source\repos\MFCGreedySnake\Debug\MFCGreedySnake.exe

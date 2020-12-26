@@ -1,0 +1,2 @@
+D:\Program Files\Visual Studio\source\repos\MFCGreedySnake\Debug\MFCGreedySnake.exe
+D:\Program Files\Visual Studio\source\repos\MFCGreedySnake\Debug\MFCGreedySnake.pdb
